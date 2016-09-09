@@ -1,13 +1,13 @@
 package x;
 
-public class SuperFile {
+public class BasicFile {
 
 	private String name;
 	private Integer age;
 
-	public SuperFile() {}
+	public BasicFile() {}
 
-	public SuperFile(String name, Integer age) {
+	public BasicFile(String name, Integer age) {
 		this.name = name;
 		this.age = age;
 	}
